@@ -1,0 +1,1052 @@
+
+number: AFROAM 118
+name: Survey of Afro-American Lit II
+category: ALDU
+
+number: AFROAM 151
+name: Literature & Culture
+category: ALDU
+
+number: AFROAM 345
+name: Southern Literature
+category: ALDU
+
+number: CLASSICS 224
+name: Greek Mythology
+category: AL
+
+number: COMP-LIT 121
+name: International Short Story
+category: AL
+
+number: COMP-LIT 122
+name: Spiritual Autobiogrp
+category: ALDG
+
+number: COMP-LIT 131
+name: Brave New World
+category: ALDG
+
+number: COMP-LIT 133
+name: Intro to Science Fiction
+category: ALDU
+
+number: COMP-LIT 141
+name: Good and Evil
+category: ALDG
+
+number: COMP-LIT 141H
+name: Good & Evil
+category: ALDG
+
+number: COMP-LIT 144
+name: War Stories
+category: ALDG
+
+number: COMP-LIT 231
+name: Comedy
+category: AL
+
+number: COMP-LIT 233
+name: International Fantasy
+category: AL
+
+number: COMP-LIT 330
+name: Translation,Cross-Cultrl Comm
+category: ALDG
+
+number: COMP-LIT 336
+name: International Graphic Novel
+category: ALDG
+
+number: ENGLISH 115
+name: American Experience
+category: ALDU
+
+number: ENGLISH 117
+name: Ethnic American Literature
+category: ALDU
+
+number: ENGLISH 131
+name: Society and Literature
+category: ALDG
+
+number: ENGLISH 132
+name: Gender, Sexuality, Lit & Cultr
+category: ALDG
+
+number: ENGLISH 141
+name: Reading Poetry
+category: AL
+
+number: ENGLISH 221
+name: Shakespeare
+category: AL
+
+number: ENGLISH 254
+name: Writ&Readg Imag Lit
+category: AL
+
+number: ENGLISH 365
+name: The Literature of Ireland
+category: AL
+
+number: ENGLISH 368
+name: Modern American Drama
+category: AL
+
+number: GERMAN 270
+name: From The Grimms To Disney
+category: AL
+
+number: GREEK 310
+name: Classical Greek Poetry: Homer
+category: AL
+
+number: HONORS 223H
+name: Metaphor & Creativity
+category: AL
+
+number: JAPANESE 144
+name: Japan Lit-Modern
+category: AL
+
+number: PHIL 100
+name: Introduction To Philosophy
+category: AL
+
+number: PHIL 100H
+name: Introduction To Philosophy
+category: AL
+
+number: PHIL 336
+name: Existential Philosophy
+category: AL
+
+number: SPANISH 321
+name: Literary Currents-Spain II
+category: AL
+
+number: SPANISH 323
+name: Spanish American Literature II
+category: ALDG
+
+number: SPANISH 324
+name: Introduction to Latino/a Lit
+category: ALDU
+
+number: THEATER 130
+name: Cntm Playwr Of Color
+category: ALDU
+
+number: AFROAM 156
+name: Rev Concepts in Afr.Am.Music
+category: ATDU
+
+number: ART 104
+name: Basic Studio/Drawing
+category: AT
+
+number: ART-HIST 110
+name: Survey: Renaissance-Modern Art
+category: ATDG
+
+number: ART-HIST 110H
+name: Survey: Renaissance-Modern Art
+category: ATDG
+
+number: ART-HIST 115
+name: VisualArt, Artists, & Cultures
+category: ATDG
+
+number: ART-HIST 213
+name: Venice: Art, History & Envir
+category: AT
+
+number: CLASSICS 103
+name: Intro to Classical Archaeology
+category: AT
+
+number: CLASSICS 301
+name: Roman Archaeology
+category: AT
+
+number: COMP-LIT 350
+name: International Film
+category: AT
+
+number: COMP-LIT 381
+name: Self-ReflectiveAvant-GardeFilm
+category: AT
+
+number: FILM-ST 284
+name: The Undead Souths
+category: ATDU
+
+number: FILM-ST 304
+name: From Berlin to Hollywood
+category: AT
+
+number: FILM-ST 344
+name: Film and Society in Israel
+category: ATDG
+
+number: FILM-ST 353
+name: African Film
+category: ATDG
+
+number: FILM-ST 381
+name: Self-ReflectiveAvant-GardeFilm
+category: AT
+
+number: FRENCHST 284
+name: The Undead Souths
+category: ATDU
+
+number: FRENCHST 353
+name: African Film
+category: ATDG
+
+number: GERMAN 304
+name: From Berlin to Hollywood
+category: AT
+
+number: HONORS 221H
+name: The Springfield Renaissance
+category: AT
+
+number: JOURNAL 333
+name: Intro to Visual Storytelling
+category: AT
+
+number: JUDAIC 344
+name: Film and Society in Israel
+category: ATDG
+
+number: MIDEAST 344
+name: Film and Society in Israel
+category: ATDG
+
+number: MUSIC 100
+name: Appreciation-Intro
+category: AT
+
+number: MUSIC 101
+name: Literature Of Music
+category: AT
+
+number: MUSIC 102
+name: Afro-American Music
+category: ATDU
+
+number: MUSIC 150
+name: Lively Arts
+category: ATDG
+
+number: PHIL 160
+name: Introduction To Ethics
+category: AT
+
+number: PHIL 160H
+name: Introduction To Ethics
+category: AT
+
+number: PHIL 163
+name: Business Ethics
+category: AT
+
+number: PHIL 164
+name: Medical Ethics
+category: AT
+
+number: PHIL 164H
+name: Medical Ethics
+category: AT
+
+number: PHIL 343
+name: Intro to Philosophy Of Art
+category: AT
+
+number: THEATER 100
+name: Theatrical Frontiers:Live Perf
+category: AT
+
+number: ANTHRO 103
+name: Human Origins and Variation
+category: BS
+
+number: BIOLOGY 105
+name: Biology of Social Issues
+category: BS
+
+number: BIOLOGY 105H
+name: Biology of Social Issues Hnrs
+category: BS
+
+number: BIOLOGY 110
+name: Intro Biology - Science Majors
+category: BS
+
+number: BIOLOGY 151
+name: Introductory Biology I
+category: BS
+
+number: DANCE 241
+name: Sci Fndatns Dance I
+category: BS
+
+number: FOOD-SCI 150
+name: The Science Of Food
+category: BS
+
+number: KIN 100
+name: Introduction to Kinesiology
+category: BS
+
+number: KIN 110
+name: Human Performance & Nutrition
+category: BS
+
+number: MICROBIO 140P
+name: Plagues, Poxes, and Pandemics
+category: BS
+
+number: MICROBIO 160
+name: Biology of Cancer and AIDS
+category: BS
+
+number: NUTRITN 130
+name: Nutrition/Healthy Lifestyle
+category: BS
+
+number: NUTRITN 130H
+name: Nutrition/Healthy Lifestyle
+category: BS
+
+number: STOCKSCH 105
+name: Soils
+category: BS
+
+number: STOCKSCH 120
+name: Organic Farming and Gardening
+category: BS
+
+number: STOCKSCH 171
+name: Plagues, Food and People: Eco
+category: BS
+
+number: ENGLWRIT 112
+name: College Writing
+category: CW
+
+number: ENGLWRIT 112H
+name: College Writing
+category: CW
+
+number: ANTHRO 102
+name: Intro/ArchaeologyHumansPast&Pr
+category: DGSB
+
+number: ANTHRO 102H
+name: Intro/Archaeology: Humans Hons
+category: DGSB
+
+number: ANTHRO 104
+name: Culture, Society and People
+category: DGSB
+
+number: ANTHRO 150
+name: Ancient Civilizations
+category: DGHS
+
+number: ARCH 211
+name: The City
+category: DGHS
+
+number: COMM 284
+name: Possible Futures: SciFi Cinema
+category: DGSB
+
+number: EDUC 229
+name: International Education
+category: DGSB
+
+number: GEOGRAPH 102
+name: Intro/Human Geography
+category: DGSB
+
+number: GEOGRAPH 220
+name: World Regional Geography
+category: DGSB
+
+number: GERMAN 376
+name: The Holocaust
+category: DGHS
+
+number: HISTORY 111
+name: World History since 1500
+category: DGHS
+
+number: HISTORY 112
+name: Intro to World Religions
+category: DGI
+
+number: HISTORY 112H
+name: Intro to World Religions Hons
+category: DGI
+
+number: HISTORY 115
+name: China: 1600 to Present
+category: DGHS
+
+number: HISTORY 120
+name: Latin America: Colonial Period
+category: DGHS
+
+number: HISTORY 131
+name: Middle East History II
+category: DGHS
+
+number: HISTORY 155
+name: Making/AtlanticWorld 1400-1800
+category: DGHS
+
+number: HISTORY 161
+name: Hst-Africa Snc 1500
+category: DGHS
+
+number: HISTORY 281
+name: Global History of Soccer
+category: DGHS
+
+number: HISTORY 387
+name: The Holocaust
+category: DGHS
+
+number: HISTORY 411
+name: History of Science Activism
+category: DGHS
+
+number: HONORS 252H
+name: Cross Cultural Prep Seminar
+category: DGSB
+
+number: JUDAIC 101
+name: The Jewish Experience I
+category: DGHS
+
+number: JUDAIC 102
+name: The Jewish Experience II
+category: DGHS
+
+number: JUDAIC 327
+name: Jewish Food/Historical Perspec
+category: DGHS
+
+number: JUDAIC 365
+name: Anti-Semitism/Hist Perspective
+category: DGHS
+
+number: JUDAIC 387
+name: The Holocaust
+category: DGHS
+
+number: M&I-ENG 290H
+name: HIV,TB,&Malaria:SimulModeling
+category: DGSB
+
+number: MIDEAST 190A
+name: WtrOil&Blood:MdEast/GlblPol
+category: DGSB
+
+number: MIDEAST 220
+name: Mideast & the World: 1400-1800
+category: DGHS
+
+number: MIDEAST 362
+name: Religion&Politics/EarlyModME
+category: DGHS
+
+number: POLISCI 111
+name: Comparative Politics
+category: DGSB
+
+number: POLISCI 121
+name: World Politics
+category: DGSB
+
+number: RES-ECON 121
+name: Hunger In Globl Econ
+category: DGSB
+
+number: SPANISH 322
+name: Intro Span Amer Lit
+category: DGHS
+
+number: SPP 190A
+name: WaterOil&Blood:MidEast/GlblPol
+category: DGSB
+
+number: STPEC 189
+name: Intro/Radical Social Theory
+category: DGHS
+
+number: SUSTCOMM 232
+name: HistorySustainableCommunityDev
+category: DGHS
+
+number: AFROAM 133
+name: African-Amer Hist,Cv War-1954
+category: DUHS
+
+number: AFROAM 170
+name: Grassroot Exp Amer Lfe & Cul I
+category: DUHS
+
+number: ANTHRO 269
+name: North American Archaeology
+category: DUHS
+
+number: ANTHRO 270
+name: North American Indians
+category: DUSB
+
+number: COMM 212
+name: Cultural Codes in Comm
+category: DUSB
+
+number: COMM-DIS 100
+name: Intro: Communication Disorders
+category: DUSB
+
+number: ECON 105
+name: Introduction Political Economy
+category: DUSB
+
+number: EDUC 115
+name: Embracing Diversity
+category: DUI
+
+number: EDUC 167
+name: Education and Film
+category: DUSB
+
+number: EDUC 202
+name: Soc.Issues/IntergroupDialogue
+category: DUSB
+
+number: EDUC 210
+name: Social Diversity in Education
+category: DUI
+
+number: ENGLISH 150
+name: Writing and Society
+category: DUSB
+
+number: ENGLWRIT 111
+name: Writing, Identity, and Power
+category: DUI
+
+number: HISTORY 154
+name: Social Change in the 1960s
+category: DUHS
+
+number: HISTORY 170
+name: IndigenousPeoples/NorthAmerica
+category: DUHS
+
+number: HISTORY 242H
+name: American Fam/Hist. Persp Hons
+category: DUHS
+
+number: HISTORY 253H
+name: Asian-PacificAmerHistory Hons
+category: DUHS
+
+number: HISTORY 265
+name: US LGBT & Queer History
+category: DUHS
+
+number: HISTORY 290A
+name: AfroAmHistory:Africa-Civil War
+category: DUHS
+
+number: HONORS 201H
+name: Ideas That Change the World
+category: DUI
+
+number: HONORS 222H
+name: American Portraits
+category: DUSB
+
+number: HONORS 321H
+name: Violence in American Culture
+category: DUSB
+
+number: HONORS 322H
+name: Criminal Law & Justice in US
+category: DUSB
+
+number: HONORS 323H
+name: Jr Yr Common Exp: Big Idea
+category: DUSB
+
+number: JOURNAL 201
+name: Introduction To Journalism
+category: DUSB
+
+number: JOURNAL 250
+name: News Literacy
+category: DUSB
+
+number: LABOR 280
+name: Labor & Work In The US
+category: DUI
+
+number: LEGAL 250
+name: Intro Legal Studies
+category: DUSB
+
+number: LINGUIST 101
+name: People & Their Language
+category: DUSB
+
+number: NURSING 212
+name: CultrlDiversity/Health&Illness
+category: DUSI
+
+number: POLISCI 229
+name: Expr/PolPersuasn,Percp,Polcy
+category: DUSB
+
+number: PUBHLTH 129
+name: Health Care For All
+category: DUSB
+
+number: PUBHLTH 160
+name: My Body, My Health
+category: DUSI
+
+number: PUBHLTH 389
+name: Health Inequities
+category: DUSB
+
+number: SOCIOL 103
+name: Social Problems
+category: DUSB
+
+number: SOCIOL 105
+name: Self,Soc&Inter Rel
+category: DUSB
+
+number: SOCIOL 107
+name: Contemporary American Society
+category: DUSB
+
+number: SOCIOL 110
+name: Introduction to Sociology
+category: DUSB
+
+number: SOCIOL 222
+name: The Family
+category: DUSB
+
+number: SOCIOL 240
+name: The Asian American Experience
+category: DUSB
+
+number: SOCIOL 287
+name: Sexuality & Society
+category: DUSB
+
+number: SPORTMGT 200
+name: Sociology of Sport & Phys Act
+category: DUSB
+
+number: WGSS 187
+name: Gender, Sexuality and Culture
+category: DUI
+
+number: WGSS 286
+name: History/Sexuality&Race/US
+category: DUHS
+
+number: CLASSICS 102
+name: Roman Civilization
+category: HS
+
+number: COMM 325H
+name: Race, Media, & Politics-Honors
+category: HS
+
+number: FRENCHST 289
+name: Paris Through the Centuries
+category: HS
+
+number: FRENCHST 386
+name: Origins To 1945
+category: HS
+
+number: GERMAN 371
+name: Crime & Criminals/ModernGerman
+category: HS
+
+number: HISTORY 100
+name: Western Thought to 1600
+category: HS
+
+number: HISTORY 101
+name: Western Thought Since 1600
+category: HS
+
+number: HISTORY 150
+name: U.S. History to 1876
+category: HS
+
+number: HISTORY 151
+name: U.S. History since 1876
+category: HS
+
+number: HISTORY 181
+name: Hist Western Sci&Technology II
+category: HS
+
+number: HISTORY 204
+name: Ancient Rome
+category: HS
+
+number: HISTORY 241
+name: The Irish Experience
+category: HS
+
+number: HISTORY 280
+name: History of Baseball in America
+category: HS
+
+number: HISTORY 373
+name: Amer Thot&Culture II
+category: HS
+
+number: PHIL 321
+name: History of Modern Philosophy
+category: HS
+
+number: POLISCI 201
+name: American Politics Through Film
+category: HS
+
+number: POLISCI 203
+name: Amer Pol Thought
+category: HS
+
+number: COMP-LIT 236
+name: Digital Culture
+category: I
+
+number: GERMAN 379
+name: Germany Today
+category: I
+
+number: ICONS 189H
+name: Glob Challngs,Scientfc Solutns
+category: I
+
+number: NRC 185
+name: SustainbleLivng:Solutions/21st
+category: I
+
+number: ASTRON 100
+name: Exploring the Universe
+category: PS
+
+number: ASTRON 100H
+name: Exploring the Universe
+category: PS
+
+number: ASTRON 101
+name: The Solar System
+category: PS
+
+number: ASTRON 105
+name: Weather & Our Atmosphere
+category: PS
+
+number: CHEM 111
+name: Gen Chem-Sci
+category: PS
+
+number: CHEM 112
+name: Gen Chem-Sci
+category: PS
+
+number: CHEM 122H
+name: General Chemistry
+category: PS
+
+number: FOOD-SCI 120
+name: Food Preservation-Why&How
+category: PS
+
+number: GEOGRAPH 110
+name: Global Environment Change
+category: PS
+
+number: GEOLOGY 101
+name: The Earth
+category: PS
+
+number: GEOLOGY 103
+name: Intro Oceanography
+category: PS
+
+number: PHYSICS 100
+name: Conceptual Physics
+category: PS
+
+number: PHYSICS 115
+name: Physics Of Music
+category: PS
+
+number: PHYSICS 120
+name: Big Bang To Black Hole
+category: PS
+
+number: PHYSICS 131
+name: Intro Physics I
+category: PS
+
+number: PHYSICS 132
+name: Intro Physics II
+category: PS
+
+number: PHYSICS 151
+name: General Physics I
+category: PS
+
+number: PHYSICS 152
+name: General Physics II
+category: PS
+
+number: PHYSICS 182
+name: Physics II- Electricity & Magn
+category: PS
+
+number: MATH 100
+name: Bsc Mth Skl/Mod Wrld
+category: R1
+
+number: MATH 101
+name: P-Cal Alg-Func&Graph
+category: R1
+
+number: MATH 102
+name: Analytic Geom & Trig
+category: R1
+
+number: MATH 104
+name: Alg/Analy Geom/Trig
+category: R1
+
+number: ANTHRO 281
+name: Stats in Anthropology using R
+category: R2
+
+number: COMPSCI 121
+name: Intro Problem Solving W/Comp
+category: R2
+
+number: COMPSCI 186
+name: Using Data Structures
+category: R2
+
+number: COMPSCI 187
+name: Programming w/Data Structures
+category: R2
+
+number: EDUC 240
+name: Intro to Educational Statistcs
+category: R2
+
+number: LINGUIST 201
+name: HowLanguageWorks:IntroLingThry
+category: R2
+
+number: LINGUIST 201H
+name: Intro to Linguistic Theory
+category: R2
+
+number: MATH 113
+name: Math-Elem Tchrs I
+category: R2
+
+number: MATH 121
+name: Linear Meth&Prob Bus
+category: R2
+
+number: MATH 127
+name: Calc Life-Soc Sci I
+category: R2
+
+number: MATH 131
+name: Calculus I
+category: R2
+
+number: MATH 233H
+name: Multivariate Calculus, Hons
+category: R2
+
+number: MUSIC 110
+name: Fundamentals Of Theory
+category: R2
+
+number: NRC 290B
+name: Intro to Quantitative Ecology
+category: R2
+
+number: PHIL 105
+name: Practical Reasoning
+category: R2
+
+number: PHIL 110
+name: Introduction To Logic
+category: R2
+
+number: PSYCH 240
+name: Statistics In Psychology
+category: R2
+
+number: PSYCH 240H
+name: Statistics in Psychology
+category: R2
+
+number: RES-ECON 212
+name: Intro Stats/Soc Sci
+category: R2
+
+number: SOCIOL 212
+name: Elem Statistics
+category: R2
+
+number: STATISTC 111
+name: Elementary Statistics
+category: R2
+
+number: STATISTC 240
+name: Intro To Statistics
+category: R2
+
+number: STATISTC 501
+name: Meth Applied Stats
+category: R2
+
+number: ANTHRO 101
+name: Biology, Culture & Human Exp
+category: SB
+
+number: COMM 250
+name: Interpersonal Communication
+category: SB
+
+number: COMM 271
+name: Humor in Society
+category: SB
+
+number: ECON 103
+name: Introduction to Microeconomics
+category: SB
+
+number: ECON 103H
+name: Introduction to Microeconomics
+category: SB
+
+number: ECON 104
+name: Introduction to Macroeconomics
+category: SB
+
+number: ECON 104H
+name: Intro To Macroecon
+category: SB
+
+number: ECON 121
+name: International Economy
+category: SB
+
+number: EDUC 101
+name: Intro to Educ: Schooling/US
+category: SB
+
+number: HUMANDEV 270
+name: Child Development
+category: SB
+
+number: LABOR 201
+name: Issues of Women & Work
+category: SB
+
+number: PHIL 170
+name: Problems in Social Thought
+category: SB
+
+number: POLISCI 101
+name: American Politics
+category: SB
+
+number: POLISCI 171
+name: Intro to Political Theory
+category: SB
+
+number: POLISCI 280
+name: Public Policy
+category: SB
+
+number: PORTUG 309
+name: Brazilian Women
+category: SB
+
+number: PSYCH 100
+name: Introductory Psychology
+category: SB
+
+number: PSYCH 100H
+name: Introductory Psych Honors
+category: SB
+
+number: PSYCH 209H
+name: Myths and Truths in Psychology
+category: SB
+
+number: RES-ECON 102
+name: Intro Resource Econ
+category: SB
+
+number: RES-ECON 262
+name: Environmental Econ
+category: SB
+
+number: SOCIOL 242
+name: Drugs & Society
+category: SB
+
+number: SOCIOL 244
+name: Sociology of Immigration
+category: SB
+
+number: SOCIOL 321
+name: Sociology of Religion
+category: SB
+
+number: SRVCLRNG 293H
+name: Learning/CommEngmnt
+category: SB
+
+number: SUSTCOMM 125
+name: Global Cities & Global Issues
+category: SB
+
+number: SUSTCOMM 333
+name: Intro/CommunityEconDevelopment
+category: SB
+
+number: STOCKSCH 172
+name: Plants in our World
+category: SI
