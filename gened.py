@@ -62,7 +62,7 @@ def write_to_file(list): # write the dictionary to a text file
 
 # -------------------------- testing area -------------------------------
 
-list = read()
+# list = read()
 
 # write(get_new_list())
 
@@ -73,4 +73,4 @@ list = read()
 
 # write_to_file(list)
 
-get_by_category(list, "AL")
+# get_by_category(list, "AL")
