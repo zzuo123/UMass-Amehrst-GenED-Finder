@@ -28,7 +28,7 @@ def get_by_category(list, category):
 	category = category.upper()
 	for number, info in list.items():
 		if category in info["category"]:
-			print("\nnumber: ",number, "\nname: ", info["name"], "\ncategory", info["category"], "\n")
+			print("\nnumber: ",number, "\nname: ", info["name"], "\ncategory:", info["category"], "\n")
 
 
 def read(): # read the dict from .dat file, if not found create one
@@ -73,4 +73,4 @@ list = read()
 
 # write_to_file(list)
 
-get_by_category(list, "ALDU")
+get_by_category(list, "AL")
