@@ -24,13 +24,6 @@ def get_new_list():	# function return new list updated from UMass website
 	return list
 
 
-def get_by_category(list, category):
-	category = category.upper()
-	for number, info in list.items():
-		if category in info["category"]:
-			print("\nnumber: ",number, "\nname: ", info["name"], "\ncategory:", info["category"], "\n")
-
-
 def read(): # read the dict from .dat file, if not found create one
 	try:
 		file = open('gened.dat', 'rb')
@@ -60,17 +53,47 @@ def write_to_file(list): # write the dictionary to a text file
 	f.close() 
 
 
+def get_by_category(list, category):
+	category = category.upper()
+	newlist = {}
+	for number, info in list.items():
+		if category in info["category"]:
+			newlist[number] = {}
+			newlist[number]["name"] = info["name"]
+			newlist[number]["category"] = info["category"]
+	return newlist
+
+
+def get_double_category(list, category):
+	category = category.upper()
+	newlist = {}
+	for number, info in list.items():
+		if category in info["category"] and len(info["category"]) == 4:
+			newlist[number] = {}
+			newlist[number]["name"] = info["name"]
+			newlist[number]["category"] = info["category"]
+	return newlist
+
+
 # -------------------------- testing area -------------------------------
 
-# list = read()
+# read from database (pre-scraped)
+list = read()
 
+# update database from website (new scrape)
 # write(get_new_list())
 
+# print entire gen-ed list to terminal
 # for name, info in list.items():
 #     print("\nname:", name)
 #     for key in info:
 #         print(key + ':', info[key])
 
+# write the entire gen-ed list into text file
 # write_to_file(list)
 
+# get a list of gen-ed that satisfies AL
 # get_by_category(list, "AL")
+
+# write search result to text file
+write_to_file(get_double_category(list, "DU"))
